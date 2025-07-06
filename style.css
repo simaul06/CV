@@ -65,6 +65,11 @@ body {
     transform: translate(-40px);
     background-color: #E9E7EA;
 }
+@media (max-width: 476px) {
+    .name .contact li{
+        font-size: 10px;
+    }
+}
 .info ul{
     padding: 0;
     margin: 0;
